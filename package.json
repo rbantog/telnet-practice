@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/rbantog/telnet-practice/issues"
   },
-  "homepage": "https://github.com/rbantog/telnet-practice#readme"
+  "homepage": "https://github.com/rbantog/telnet-practice#readme",
+  "dependencies": {
+    "telnet-client": "^2.1.0",
+    "telnet-stream": "^1.1.0"
+  }
 }
