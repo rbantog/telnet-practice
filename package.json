@@ -1,0 +1,22 @@
+{
+  "name": "telnet-practice",
+  "version": "1.0.0",
+  "description": "practicing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbantog/telnet-practice.git"
+  },
+  "keywords": [
+    "telnet"
+  ],
+  "author": "rickcel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbantog/telnet-practice/issues"
+  },
+  "homepage": "https://github.com/rbantog/telnet-practice#readme"
+}
